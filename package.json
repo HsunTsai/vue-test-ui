@@ -10,6 +10,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
     "@vitejs/plugin-vue": "^5.0.4",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
