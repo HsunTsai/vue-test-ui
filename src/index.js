@@ -1,11 +1,3 @@
-
-// import Header from './components/header/Header.vue'
-import Button from './components/button/Button.vue'
-// import Page from './components/page/Page.vue'
-
-// 导出你的组件
-export {
-    // Header,
-    Button,
-    // Page,
-}
+export { default as Header } from './components/header/Header.vue'
+export { default as Button } from './components/button/Button.vue'
+export { default as Page } from './components/page/Page.vue'
